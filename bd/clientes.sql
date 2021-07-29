@@ -32,7 +32,7 @@ CREATE TABLE `clientes` (
   `nombre` varchar(250) NOT NULL,
   `correo` varchar(250) NOT NULL,
   `celular` varchar(250) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+);
 
 --
 -- Volcado de datos para la tabla `clientes`
